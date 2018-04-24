@@ -1,0 +1,42 @@
+.cal_main{
+    border:0;
+    background: #CCCCCC;
+    font: 12px; 
+    color: #666666;
+    border-collapse:separate;
+    padding: 1;
+}
+
+.head_normal {
+    text-align :center;
+    background:#C7D8ED; 
+    color: #666666;
+}
+
+.sunday {
+    width: 170px;
+    text-align:center;
+    height:18;
+    background:#FFFFFF;
+    color: #666666;
+}
+
+.weekday{
+    width: 170px;
+    text-align:center;
+    height:18;
+    background:#FFFFFF;
+    color: #666666;
+}
+
+.holiday{
+    text-align:center;
+    height:18;
+    background:#FF3300;
+    color: #FFFFFF;
+}
+
+.day {
+    height: 80;
+    width: 170;
+}
