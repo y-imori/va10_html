@@ -85,8 +85,20 @@ body {
     margin-left: 200px;
 }
 
-#day_table {
-    width:200px
+.timecard-head{
+    background: #999999;
+}
+
+.day_table {
+    width:300px;
+    background: #ffffff;
+    
+}
+
+.day_table2 {
+    width:300px;
+    background: #dddddd;
+    
 }
 
 #st_table {
@@ -106,4 +118,15 @@ body {
     margin-top: 50px;
     margin-left: 200px;
     background: rgb(255, 255, 255);
+}
+
+.select{
+    height:30px; 
+    width:100px;
+}
+
+.botton_area{
+    width: 100px;
+    height: 30px;
+    left: 800px;
 }

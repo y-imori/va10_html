@@ -1,0 +1,38 @@
+.timecard-head{
+    background: #999999;
+}
+
+
+.day_table {
+    height: 100px;
+    width:300px;
+    background: #ffffff;
+    
+}
+
+.day_table2 {
+    height: 100px;
+    width:300px;
+    background: #dddddd;
+    
+}
+
+.day_table_check {
+    height: 100px;
+    width:50px;
+    background: #ffffff;
+    
+}
+
+.day_table2_check {
+    height: 100px;
+    width:50px;
+    background: #ffffff;
+    
+}
+
+.botton_area{
+    width: 100px;
+    height: 30px;
+    left: 800px;
+}

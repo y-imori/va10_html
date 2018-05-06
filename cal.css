@@ -16,7 +16,7 @@
 .sunday {
     width: 170px;
     text-align:center;
-    height:18;
+    height:5;
     background:#FFFFFF;
     color: #666666;
 }
@@ -24,19 +24,27 @@
 .weekday{
     width: 170px;
     text-align:center;
-    height:18;
+    height:5;
     background:#FFFFFF;
     color: #666666;
 }
 
 .holiday{
     text-align:center;
-    height:18;
+    height:5;
     background:#FF3300;
     color: #FFFFFF;
 }
 
+.day_sch {
+    width: 170px;
+    text-align:center;
+    height:80;
+    background:#FFFFFF;
+    color: #666666;
+}
+
 .day {
-    height: 80;
+    height: 5;
     width: 170;
 }
